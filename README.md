@@ -2,10 +2,10 @@
 
 <img src="sb.PNG" />
 
-[![](https://img.shields.io/badge/Youtube-SB_Components-blue)](https://www.youtube.com/channel/UC-HPa0xV9LtjqT79aajhGfQ)
+[![](https://img.shields.io/badge/Youtube-SB_Components-red)](https://www.youtube.com/channel/UC-HPa0xV9LtjqT79aajhGfQ)
 [![](https://img.shields.io/badge/Instagram-SB_Components-red)](https://www.instagram.com/sbcomponentsltd/)
 [![](https://img.shields.io/badge/LinkedIn-SB_Components_Ltd-blue)](https://www.linkedin.com/organization-guest/company/sb-components-limited)
-[![](https://img.shields.io/badge/Facebook-sbcomponentsltd-brightgreen)](https://www.facebook.com/sbcomponentsltd)
+[![](https://img.shields.io/badge/Facebook-sbcomponentsltd-blue)](https://www.facebook.com/sbcomponentsltd)
 
 
 
