@@ -3,10 +3,10 @@
 <img src="sb.PNG" />
 
 [![](https://img.shields.io/badge/Shop-Our_Shop-brightgreen)](https://shop.sb-components.co.uk/)
-[![Linkedin](https://img.shields.io/badge/-Youtube-222222?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-HPa0xV9LtjqT79aajhGfQ)
-[![Linkedin](https://img.shields.io/badge/-Instagram-222222?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sbcomponentsltd/)
-[![Linkedin](https://img.shields.io/badge/-Facebook-222222?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sbcomponentsltd)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/organization-guest/company/sb-components-limited)
+[![Linkedin](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-HPa0xV9LtjqT79aajhGfQ)
+[![Linkedin](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sbcomponentsltd/)
+[![Linkedin](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sbcomponentsltd)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/organization-guest/company/sb-components-limited)
 
 
 
